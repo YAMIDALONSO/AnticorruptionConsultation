@@ -1,0 +1,5 @@
+package controllers;
+
+public enum Events {
+    DELETE_VOTES, REGISTOR_VOTES,SHOW_DELETE_VOTES_DIALOG,SHOW_PEOPLE_PERCENTAGE
+}
